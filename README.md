@@ -3,7 +3,6 @@
 ![Simple SEO Toolkit Jenderal92](https://github.com/user-attachments/assets/e59e491b-b36d-4311-8a56-4681aa7ced88)
 
 
-## Description
 SEO Toolkit is a command-line tool for analyzing websites, including crawling links, analyzing keyword density, and generating SEO reports.
 
 ## Installation
@@ -22,10 +21,4 @@ seo-toolkit <website_url> -o <output_file>
 Crawl website and extract links.
 Analyze keyword density.
 Generate detailed SEO reports.
-
-## Description  
-**SEO Toolkit** adalah alat berbasis command-line yang dirancang untuk menganalisis situs web. Fitur-fiturnya meliputi:  
-- Crawling tautan situs web.  
-- Menganalisis kepadatan kata kunci.  
-- Membuat laporan SEO secara detail.  
    
